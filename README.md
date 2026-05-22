@@ -2,67 +2,41 @@
 
 **Full-Stack Developer | AI/ML | Python | Node | React | Next.js | AWS**
 
-AI/ML Engineer · 10+ Years Experience · LLM, RAG, Chatbots & Cloud Architecture
-
-📫 **pryzmtechnologies@gmail.com** · Open to freelance & contract work
+📫 [pryzmtechnologies@gmail.com](mailto:pryzmtechnologies@gmail.com)
 
 ---
-
-## About Me
-
-I'm a Full Stack Developer with **10+ years** of experience building scalable web applications from scratch, and improving existing codebases.
-
-**Industries:** fintech & crypto, healthcare, real estate & PropTech, eCommerce, logistics, hospitality, construction tech, fitness & wearables, cybersecurity, enterprise SaaS.
-
-I use **Cursor**, **GPT**, **Claude**, and **Gemini** to ship faster and build **LLM integrations**, **RAG systems**, **chatbots**, and **AI automation** — dashboards, APIs, and workflows for better decisions.
-
----
-
-## Skills
 
 ### Backend
-- Python · Django · FastAPI
-- TypeScript · Node.js · Express · NestJS
-- REST · SOAP · API integration · AI integration
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,ts,express,nestjs,graphql" alt="Backend" />
+</p>
 
 ### Frontend
-- Vue · Nuxt · React · Next.js · Redux · MUI
-- JavaScript · TypeScript · HTML5 · CSS3 · Bootstrap · SCSS · Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,js,ts,react,next,redux,html,css,bootstrap,tailwind" alt="Frontend" />
+</p>
 
 ### Databases
-- MySQL · PostgreSQL · GraphQL · Firebase · MongoDB
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,graphql" alt="Databases" />
+</p>
 
 ### Cloud & DevOps
-- AWS · Azure · GCP · Docker · Kubernetes
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes" alt="Cloud" />
+</p>
 
 ### Version Control
-- Git · GitHub · GitLab · Bitbucket · DigitalOcean
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Version Control" />
+</p>
 
 ### Testing
-- Jest · Appium · Mocha · Selenium · Cypress · Manual testing
-
-### Project Management
-- Jira · Slack · Notion · Asana · Trello · YouTrack
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,cypress,selenium" alt="Testing" />
+</p>
 
 ### AI / ML
-- LLM · TensorFlow · PyTorch · Scikit-learn · Pandas · NumPy
-- OpenAI GPT · Hugging Face · Keras · Computer Vision · NLP · RAG · MLOps
-
----
-
-## Why Choose Me?
-
-- Performance-first full-stack & cloud architecture  
-- Scalable SaaS and AI solutions from idea to production  
-- Clear communication and business-focused delivery  
-
----
-
-## Let's Connect
-
-**30-minute consultation** — happy to discuss your project.
-
-- Email: [pryzmtechnologies@gmail.com](mailto:pryzmtechnologies@gmail.com)
-- Repos: [github.com/anwaruldev989](https://github.com/anwaruldev989?tab=repositories)
-
-Thanks for visiting.
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,openai" alt="AI ML" />
+</p>
