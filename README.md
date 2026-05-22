@@ -16,7 +16,7 @@
 
 | | |
 |:---:|:---|
-| 💼 | **7+ years** — scalable web apps from scratch & legacy codebases |
+| 💼 | **10+ years** — scalable web apps from scratch & legacy codebases |
 | 🏢 | Fintech · Crypto · Healthcare · PropTech · eCommerce · Logistics · Hospitality · Construction · Fitness · Cybersecurity · SaaS |
 | 🤖 | **Cursor · GPT · Claude · Gemini** — LLM, RAG, chatbots, automation |
 | 📊 | Real-time dashboards · API integrations · AI-driven workflows |
